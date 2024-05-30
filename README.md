@@ -3,7 +3,7 @@ acassioglauco/acassioglauco is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi, I’m @acassioglauco
+# Hi, I’m Glauco Acassio
 
 - 👀 I’m interested in programming, medicine, and self-taught learning.
 - 🌱 I’m currently learning advanced C, C++, and Java programming techniques.
