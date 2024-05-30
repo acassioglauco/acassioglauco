@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on open-source programming projects and educational resources.
 - 📫 How to reach me: 
   - **Instagram:** [glauco.acassio](https://instagram.com/glauco.acassio)
-  - **Email:** [glaucoacassioc@gmail.com](mailto:glaucoacassioc@gmail.com)
+  - **Email:** [glaucoacassioc@gmail.com](mailto:acassioglauco@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Even though I'm a medical student, I find coding just as thrilling as diagnosing a rare disease!
 
@@ -30,10 +30,10 @@ Here are some of the projects I've been working on:
 
 ## Get in Touch
 
-Feel free to reach out if you have any questions, suggestions, or if you just want to chat about programming and medicine!
+Feel free to reach out if you have any questions, suggestions, or if you just want to chat about programming!
 
 - **Instagram:** [glauco.acassio](https://instagram.com/glauco.acassio)
-- **Email:** [glaucoacassioc@gmail.com](mailto:glaucoacassioc@gmail.com)
+- **Email:** [glaucoacassioc@gmail.com](mailto:acassioglauco@gmail.com)
 
 ## Acknowledgements
 
