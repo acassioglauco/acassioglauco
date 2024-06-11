@@ -5,20 +5,20 @@ You can click the Preview link to take a look at your changes.
 
 # Olá, eu sou Glauco Acássio
 
-- 👀 Estou interessado em programação, medicina e aprendizado autodidata.
+- 👀 Estou interessado em tudo relacionado à tecnologia. Curso Medicina(7° período) e sou autodidata em linguagens de programação.
 - 🌱 Atualmente estou aprendendo técnicas avançadas de programação em C, C++ e Java.
 - 💞️ Estou procurando colaborar em projetos de programação de código aberto e recursos educacionais.
 - 📫 Como me encontrar: 
   - **Instagram:** [glauco.acassio](https://instagram.com/glauco.acassio)
   - **E-mail:** [glaucoacassioc@gmail.com](mailto:acassioglauco@gmail.com)
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Mesmo sendo estudante de medicina, acho a programação tão empolgante quanto diagnosticar uma doença rara!
+- ⚡ Curiosidade: Mesmo sendo estudante de medicina, acho a programação tão empolgante quanto fazer um diagnostico complexo!
 
 ---
 
 ## Sobre Mim
 
-Sou estudante de medicina com uma grande paixão pela programação. Apesar de não ter uma formação formal em Ciência da Computação, ensinei a mim mesmo como programar em C, C++ e Java. Gosto de criar projetos públicos e online que possam ajudar outras pessoas a aprender e crescer em suas jornadas de programação.
+Sou estudante de medicina com uma grande paixão pela programação. Apesar de não ter uma formação formal em Ciência da Computação, aprendi sozinho a como programar em C, C++ e Java. Gosto de criar projetos públicos e online que possam ajudar outras pessoas a aprender e crescer em suas jornadas de programação.
 
 ## Projetos
 
