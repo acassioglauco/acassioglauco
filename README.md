@@ -3,39 +3,38 @@ acassioglauco/acassioglauco is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi, I’m Glauco Acassio
+# Olá, eu sou Glauco Acássio
 
-- 👀 I’m interested in programming, medicine, and self-taught learning.
-- 🌱 I’m currently learning advanced C, C++, and Java programming techniques.
-- 💞️ I’m looking to collaborate on open-source programming projects and educational resources.
-- 📫 How to reach me: 
+- 👀 Estou interessado em programação, medicina e aprendizado autodidata.
+- 🌱 Atualmente estou aprendendo técnicas avançadas de programação em C, C++ e Java.
+- 💞️ Estou procurando colaborar em projetos de programação de código aberto e recursos educacionais.
+- 📫 Como me encontrar: 
   - **Instagram:** [glauco.acassio](https://instagram.com/glauco.acassio)
-  - **Email:** [glaucoacassioc@gmail.com](mailto:acassioglauco@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Even though I'm a medical student, I find coding just as thrilling as diagnosing a rare disease!
+  - **E-mail:** [glaucoacassioc@gmail.com](mailto:acassioglauco@gmail.com)
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Mesmo sendo estudante de medicina, acho a programação tão empolgante quanto diagnosticar uma doença rara!
 
 ---
 
-## About Me
+## Sobre Mim
 
-I am a medical student with a strong passion for programming. Despite not having a formal education in Computer Science, I have taught myself how to code in C, C++, and Java. I enjoy creating public and online projects that can help others learn and grow in their programming journeys.
+Sou estudante de medicina com uma grande paixão pela programação. Apesar de não ter uma formação formal em Ciência da Computação, ensinei a mim mesmo como programar em C, C++ e Java. Gosto de criar projetos públicos e online que possam ajudar outras pessoas a aprender e crescer em suas jornadas de programação.
 
-## Projects
+## Projetos
 
-Here are some of the projects I've been working on:
+Aqui estão alguns dos projetos em que tenho trabalhado:
 
-- **[C Project](https://github.com/usuario/projeto-em-c):** A detailed description of a C project I'm working on.
-- **[C++ Project](https://github.com/usuario/projeto-em-cpp):** A detailed description of a C++ project I'm working on.
-- **[Java Project](https://github.com/usuario/projeto-em-java):** A detailed description of a Java project I'm working on.
+- **[Projeto em C](https://github.com/usuario/projeto-em-c):** Uma descrição detalhada de um projeto em C no qual estou trabalhando.
+- **[Projeto em C++](https://github.com/usuario/projeto-em-cpp):** Uma descrição detalhada de um projeto em C++ no qual estou trabalhando.
+- **[Projeto em Java](https://github.com/usuario/projeto-em-java):** Uma descrição detalhada de um projeto em Java no qual estou trabalhando.
 
-## Get in Touch
+## Entre em Contato
 
-Feel free to reach out if you have any questions, suggestions, or if you just want to chat about programming!
+Sinta-se à vontade para entrar em contato se tiver alguma dúvida, sugestão ou se quiser apenas conversar sobre programação!
 
 - **Instagram:** [glauco.acassio](https://instagram.com/glauco.acassio)
-- **Email:** [glaucoacassioc@gmail.com](mailto:acassioglauco@gmail.com)
+- **E-mail:** [glaucoacassioc@gmail.com](mailto:acassioglauco@gmail.com)
 
-## Acknowledgements
+## Agradecimentos
 
-Thank you for visiting my profile! I hope you find my projects useful and interesting. Let's code and learn together!
-
+Obrigado por visitar meu perfil! Espero que você ache meus projetos úteis e interessantes. Vamos codificar e aprender juntos!
