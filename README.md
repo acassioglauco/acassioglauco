@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Olá, eu sou Glauco Acássio
 
-- 👀 Estou interessado em tudo relacionado à tecnologia. Curso Medicina(7° período) e sou autodidata em linguagens de programação.
+- 👀 Estou interessado em tudo relacionado à tecnologia. Curso Medicina(8° período) e sou autodidata em linguagens de programação.
 - 🌱 Atualmente estou aprendendo técnicas avançadas de programação em C, C++ e Java.
 - 💞️ Estou procurando colaborar em projetos de programação de código aberto e recursos educacionais.
 - 📫 Como me encontrar: 
